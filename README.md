@@ -21,4 +21,16 @@
 * ### Firebase Google Authentitation To Login
 * ### React Flip Move
 
+* My Learning path:
+* 
+
+
+![1](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/204f26b2-9268-42aa-9a14-bd5e9a747dd7)
+![2](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/34a70ca8-404d-4bce-a243-c0c2ff3ec2ad)
+![3](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/24ca639b-ce39-4d4f-909a-930adc2b0947)
+![4](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/a5027326-8247-4eb2-822a-61912ee9f653)
+![5](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/f556e341-20ad-4a8d-83df-5f68de254ea3)
+
+
+Screenshot of the project:
 
