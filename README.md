@@ -32,5 +32,5 @@
 ![5](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/f556e341-20ad-4a8d-83df-5f68de254ea3)
 
 
-Screenshot of the project:
+#Screenshot of the project:
 
