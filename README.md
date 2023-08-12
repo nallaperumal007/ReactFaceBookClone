@@ -6,13 +6,12 @@
 
  🤛
  ##ScreenShots
-![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/ecabae6e-88be-4fde-9f4f-4bada42049ec)
-![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/5bd408f6-e1b8-4c95-9708-e9b2c8bcffaf)
-![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/779e1fe8-eca2-4ee9-abb5-4c2fa91603e7)
-![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/9fab066e-72d8-4ca0-970f-4daab3ded150)
-![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/6aea79ab-bec7-4e70-b6ed-997272834416)
-![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/a3e5cd8d-ecdd-4fa8-9239-e29947d344c5)
-
+![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/61641ed6-c1e6-4bc5-9c11-7fe374ead8f7)
+![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/3a215898-34bf-444b-bb23-b6dfb0866cc2)
+![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/37bc9b68-2f44-43ec-a104-d378bb4ca5f7)
+![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/91cce8c2-c4d1-4243-8e57-a3cc68fa385d)
+![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/738304c0-393d-4b8e-8960-f1eb48103ae1)
+![image](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/b723181b-b667-416d-8c9f-0aa72298b4ca)
 ## How To Run:
 <code> npm i && npm start </code> - this will start the development server after installing the node modules
 
