@@ -2,9 +2,12 @@
 
 ## A FaceBook web app where you can post with or without a picture. It is global, so everyone can see all the posts been posted. It uses Google Authentication for direct Sign In.
 
-## 🤜 [Demo Video]("https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/66b34b5c-bd2d-4277-b5a9-114ebccd9bdb")
+## 🤜 [Demo Video](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/66b34b5c-bd2d-4277-b5a9-114ebccd9bdb)
 
  🤛
+ ##ScreenShots
+ 
+ 
 
 ## How To Run:
 <code> npm i && npm start </code> - this will start the development server after installing the node modules
@@ -34,5 +37,5 @@
 ![5](https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/f556e341-20ad-4a8d-83df-5f68de254ea3)
 
 
-#Screenshot of the project:
+
 
