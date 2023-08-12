@@ -2,9 +2,7 @@
 
 ## A FaceBook web app where you can post with or without a picture. It is global, so everyone can see all the posts been posted. It uses Google Authentication for direct Sign In.
 
-## 🤜 [Demo Video]
-
-(https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/66b34b5c-bd2d-4277-b5a9-114ebccd9bdb)
+## 🤜 [Demo Video]("https://github.com/nallaperumal007/ReactFaceBookClone/assets/139489689/66b34b5c-bd2d-4277-b5a9-114ebccd9bdb")
 
  🤛
 
